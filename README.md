@@ -97,7 +97,7 @@ Aplikasi ini dikembangkan menggunakan pendekatan **User-Centered Design (UCD)**:
   <tr>
     <td align="center">
       <a href="https://github.com/Emzyjeppp">
-        <img src="https://github.com/Emzyjeppp.png" width="100px;" alt="Emzyjeppp"/>
+        <img src="https://github.com/Emzyjeppp.png?size=100" width="100px;" alt="Emzyjeppp"/>
         <br />
         <sub><b>@Emzyjeppp</b></sub>
       </a>
@@ -105,13 +105,14 @@ Aplikasi ini dikembangkan menggunakan pendekatan **User-Centered Design (UCD)**:
 
     <td align="center">
       <a href="https://github.com/finkyyy">
-        <img src="https://github.com/finkyyy.png" width="100px;" alt="finkyyy"/>
+        <img src="https://github.com/finkyyy.png?size=100" width="100px;" alt="finkyyy"/>
         <br />
         <sub><b>@finkyyy</b></sub>
       </a>
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📌 Langkah Terakhir Push ke GitHub
