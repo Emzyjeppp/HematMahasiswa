@@ -1,0 +1,19 @@
+{
+  "HematMahasiswa": [
+    "app.py",
+    "database.json",
+    {
+      "templates": ["index.html"]
+    },
+    {
+      "static": [
+        {
+          "css": ["style.css"]
+        },
+        {
+          "js": ["script.js"]
+        }
+      ]
+    }
+  ]
+}
