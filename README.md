@@ -35,9 +35,71 @@ PROYEK_IMK_HEMATMAHASISWA/
 └── README.md               # Dokumentasi proyek
 ```
 
-🚀 Cara Menjalankan Secara Lokal
-1. Persiapan
-Pastikan Python sudah terinstal di komputer Anda. Clone repository ini:
+## 🚀 Cara Menjalankan Secara Lokal
+
+### 1. Persiapan
+Pastikan Python sudah terinstal di komputer Anda, lalu clone repository berikut:
+
+```bash
+git clone https://github.com/Emzyjeppp/HematMahasiswa.git
+cd HematMahasiswa
+```
+
+### 2. Instalasi
+Install seluruh dependency yang dibutuhkan:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Menjalankan Aplikasi
+Jalankan server Flask menggunakan perintah:
+
+```bash
+python app.py
+```
+
+Buka browser dan akses:
+
+```text
+http://127.0.0.1:5000
+```
+
+---
+
+## 🛠️ Metodologi Pengembangan
+
+Aplikasi ini dikembangkan menggunakan pendekatan **User-Centered Design (UCD)**:
+
+- **Plan**  
+  Mengidentifikasi masalah mahasiswa yang malas mencatat pengeluaran karena aplikasi keuangan dianggap terlalu rumit.
+
+- **Analysis**  
+  Melakukan riset terhadap 30 responden mengenai kebiasaan pengeluaran dan kebutuhan aplikasi keuangan sederhana.
+
+- **Design**  
+  Mendesain antarmuka minimalis dengan fokus pada kemudahan penggunaan dan tombol aksi utama.
+
+- **Implementation**  
+  Pengembangan aplikasi menggunakan Flask dan Tailwind CSS untuk performa yang ringan dan responsif.
+
+---
+
+## 👨‍💻 Kontributor
+
+- GitHub: @Emzyjeppp
+
+---
+
+## 📌 Langkah Terakhir Push ke GitHub
+
+Setelah menyimpan perubahan pada `README.md`, jalankan perintah berikut di terminal:
+
+```powershell
+git add README.md
+git commit -m "Add final professional README"
+git push origin main
+```
 
 
 
