@@ -19,7 +19,8 @@ http://googleusercontent.com/map_location_reference/1
 ## 📂 Struktur Folder Proyek
 Struktur ini mengikuti standar pengembangan web Flask untuk menjaga keteraturan aset dan logika:
 
-```bash
+
+```yaml
 PROYEK_IMK_HEMATMAHASISWA/
 ├── .venv/                  # Lingkungan virtual Python (Library Flask, dll)
 ├── static/                 # Aset Frontend statis
@@ -32,7 +33,7 @@ PROYEK_IMK_HEMATMAHASISWA/
 ├── database.json           # Database lokal (Format JSON)
 ├── requirements.txt        # Daftar dependensi library
 ├── .gitignore              # Mengatur file yang tidak di-upload ke GitHub
-└── README.md               # Dokumentasi Proyek 
+└── README.md               # Dokumentasi Proyek
 
 🚀 Cara Menjalankan Secara Lokal
 1. Persiapan
