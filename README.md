@@ -19,23 +19,25 @@ http://googleusercontent.com/map_location_reference/1
 ## 📂 Struktur Folder Proyek
 Struktur ini mengikuti standar pengembangan web Flask untuk menjaga keteraturan aset dan logika:
 
-
-```yaml
+```text
 PROYEK_IMK_HEMATMAHASISWA/
 ├── .venv/                  # Lingkungan virtual Python (Library Flask, dll)
-├── static/                 # Aset Frontend statis
+├── static/                 # Aset frontend statis
 │   ├── css/                # Styling tambahan (jika ada)
-│   └── js/                 # Logika JavaScript untuk Modal & Fetch API
+│   └── js/                 # Logika JavaScript untuk modal & Fetch API
 ├── templates/              # File HTML (Jinja2 Templates)
-│   ├── index.html          # Halaman Dashboard & Input Utama
-│   └── map.html            # Halaman Peta Rekomendasi
-├── app.py                  # Server Backend Utama (Python Flask)
-├── database.json           # Database lokal (Format JSON)
+│   ├── index.html          # Halaman dashboard & input utama
+│   └── map.html            # Halaman peta rekomendasi
+├── app.py                  # Server backend utama (Python Flask)
+├── database.json           # Database lokal (format JSON)
 ├── requirements.txt        # Daftar dependensi library
 ├── .gitignore              # Mengatur file yang tidak di-upload ke GitHub
-└── README.md               # Dokumentasi Proyek
+└── README.md               # Dokumentasi proyek
+```
 
 🚀 Cara Menjalankan Secara Lokal
 1. Persiapan
 Pastikan Python sudah terinstal di komputer Anda. Clone repository ini:
+
+
 
