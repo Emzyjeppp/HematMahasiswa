@@ -19,7 +19,7 @@ http://googleusercontent.com/map_location_reference/1
 ## 📂 Struktur Folder Proyek
 Struktur ini mengikuti standar pengembangan web Flask untuk menjaga keteraturan aset dan logika:
 
-```text
+```bash
 PROYEK_IMK_HEMATMAHASISWA/
 ├── .venv/                  # Lingkungan virtual Python (Library Flask, dll)
 ├── static/                 # Aset Frontend statis
