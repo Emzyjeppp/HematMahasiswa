@@ -1,5 +1,9 @@
 # 💸 HematMahasiswa
 **Solusi Pencatatan Keuangan Cepat & Cerdas untuk Mahasiswa**
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
+![Flask](https://img.shields.io/badge/Flask-2.x-green?style=flat&logo=flask)
+![Redis](https://img.shields.io/badge/Redis-Message_Broker-red?style=flat&logo=redis)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat)
 
 HematMahasiswa adalah aplikasi web berbasis **Flask** yang dirancang khusus untuk mahasiswa yang ingin mengelola keuangan harian dengan efisien. Fokus utama aplikasi ini adalah **kecepatan input** (Target < 3 detik) dan penyediaan **solusi belanja hemat** melalui integrasi peta warung makan murah.
 
