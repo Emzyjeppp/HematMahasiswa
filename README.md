@@ -33,9 +33,12 @@ PROYEK_IMK_HEMATMAHASISWA/
 │   └── js/                 # Logika JavaScript untuk modal & Fetch API
 ├── templates/              # File HTML (Jinja2 Templates)
 │   ├── index.html          # Halaman dashboard & input utama
-│   └── map.html            # Halaman peta rekomendasi
+│   ├── map.html            # Halaman peta rekomendasi warung
+│   ├── profil.html         # Halaman profil pengguna (foto & nama)
+│   └── stats.html          # Halaman statistik pengeluaran (Chart.js)
 ├── app.py                  # Server backend utama (Python Flask)
-├── database.json           # Database lokal (format JSON)
+├── database.json           # Database lokal riwayat pengeluaran (format JSON)
+├── profile.json            # Database lokal data profil pengguna (format JSON)
 ├── requirements.txt        # Daftar dependensi library
 ├── .gitignore              # Mengatur file yang tidak di-upload ke GitHub
 └── README.md               # Dokumentasi proyek
