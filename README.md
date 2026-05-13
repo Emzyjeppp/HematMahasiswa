@@ -117,15 +117,5 @@ Aplikasi ini dikembangkan menggunakan pendekatan **User-Centered Design (UCD)**:
 
 ---
 
-## 📌 Langkah Terakhir Push ke GitHub
-
-Setelah menyimpan perubahan pada `README.md`, jalankan perintah berikut di terminal:
-
-```powershell
-git add README.md
-git commit -m "Add final professional README"
-git push origin main
-```
-
 
 
